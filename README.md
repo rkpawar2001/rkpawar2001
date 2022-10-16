@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently pursuing **B.Tech**
 
-- 👨‍💻 All of my projects are available at [ranjitgohite.tech](ranjitgohite.tech)
+- 👨‍💻 All of my projects are available at [ranjitgohite.tech](https://ranjitgohite.tech)
 
-- 📝 I regularly write articles on [ranjitgohite.tech](ranjitgohite.tech)
+- 📝 I regularly write articles on [ranjitgohite.tech](https://ranjitgohite.tech)
 
 - 💬 Ask me about **Web Development Technologies**
 
